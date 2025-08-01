@@ -19,13 +19,14 @@ This is my submission for the Web Development Internship Task – Round 1.
 
 ## 📁 Project Structure
 intern-portal/
-└── frontend/
-├── index.html
-├── dashboard.html
-├── styles.css
-├── script.js
-├── data.json
-
+├── frontend/
+│ ├── index.html
+│ ├── dashboard.html
+│ ├── styles.css
+│ ├── script.js
+│ └── data.json
+└── screenshots/
+└── dashboard.png
 yaml
 Copy
 Edit
