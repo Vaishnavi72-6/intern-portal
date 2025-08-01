@@ -4,7 +4,7 @@ This is my submission for the Web Development Internship Task – Round 1.
 
 ## 📸 Preview Screenshot
 
-![Dashboard Preview](C:\Users\91863\OneDrive\Desktop\intern-portal\frontend)
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## 💻 Features
 - Dummy login page (index.html)
