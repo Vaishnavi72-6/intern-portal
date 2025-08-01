@@ -2,9 +2,7 @@
 
 This is my submission for the Web Development Internship Task – Round 1.
 
-## 📸 Preview Screenshot
 
-![Dashboard](screenshots/dashboard.png)
 
 ## 💻 Features
 - Dummy login page (index.html)
