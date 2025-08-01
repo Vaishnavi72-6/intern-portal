@@ -4,7 +4,7 @@ This is my submission for the Web Development Internship Task – Round 1.
 
 ## 📸 Preview Screenshot
 
-![Dashboard Preview](./frontend/dashboard.png)
+![Dashboard Preview](C:\Users\91863\OneDrive\Desktop\intern-portal\frontend)
 
 ## 💻 Features
 - Dummy login page (index.html)
@@ -15,7 +15,7 @@ This is my submission for the Web Development Internship Task – Round 1.
   - Static rewards/unlockables section
 
 ## 🔗 Live Link (If hosted)
-[Click here to view live](YOUR_NETLIFY_LINK_HERE)
+[Click here to view live](https://frolicking-salmiakki-9afda5.netlify.app/)
 
 ## 📁 Project Structure
 intern-portal/
